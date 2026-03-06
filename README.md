@@ -1,13 +1,17 @@
 # 💫 About Me:
 ### Hi there 👋
-<br><br>💼 **I’m currently working on**
-<br>IT Intern at the City Hall of Rio Branco do Sul, where I assist with technical support and infrastructure management.
-<br><br>🤝 **I’m looking to collaborate on**
-<br>Open-source projects or interesting web/software development challenges to expand my portfolio.
-<br><br>🔭 **I’m looking for help with**
-<br>New job opportunities! I'm actively seeking a Junior Developer or Full-time IT position to kickstart my career post-graduation.
-<br><br>📚 **I’m currently learning**
-<br>Advanced software architecture and polishing my skills in my final year (7th semester) of Computer Science.
+
+💼 **I’m currently working on**
+IT Intern at the City Hall of Rio Branco do Sul, where I assist with technical support and infrastructure management.
+
+🤝 **I’m looking to collaborate on**
+Open-source projects or interesting web/software development challenges to expand my portfolio.
+
+🔭 **I’m looking for help with**
+New job opportunities! I'm actively seeking a Junior Developer or Full-time IT position to kickstart my career post-graduation.
+
+📚 **I’m currently learning**
+Advanced software architecture and polishing my skills in my final year (7th semester) of Computer Science.
 
 
 ## 🌐 Socials:
